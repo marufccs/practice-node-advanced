@@ -17,5 +17,5 @@ module.exports.two = function two() {
 
 module.exports = {
     errorHandler,
-    two
+    two 
 }
